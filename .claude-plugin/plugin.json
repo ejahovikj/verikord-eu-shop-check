@@ -1,0 +1,23 @@
+{
+  "name": "verikord-eu-shop-check",
+  "displayName": "Verikord EU Shop Duties Check",
+  "version": "1.0.0",
+  "description": "Find out which EU duties apply to an online shop and from when: withdrawal button, warranty label, GPSR, packaging, accessibility, e-invoicing, EUDR, battery and product passports. A few questions, then a dated checklist with sources. General information, not legal advice.",
+  "author": {
+    "name": "Verikord",
+    "url": "https://verikord.com"
+  },
+  "homepage": "https://verikord.com",
+  "license": "MIT",
+  "keywords": [
+    "eu",
+    "compliance",
+    "ecommerce",
+    "shopify",
+    "woocommerce",
+    "gpsr",
+    "ppwr",
+    "digital-product-passport",
+    "onlineshop"
+  ]
+}
